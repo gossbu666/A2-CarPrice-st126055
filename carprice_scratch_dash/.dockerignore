@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.ipynb
+mlruns/
+env/
+.venv/
+.git/

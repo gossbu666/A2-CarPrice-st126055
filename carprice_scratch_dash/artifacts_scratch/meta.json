@@ -1,0 +1,19 @@
+{
+  "cat_cols": [
+    "fuel",
+    "seller_type",
+    "transmission",
+    "brand"
+  ],
+  "num_cols": [
+    "year",
+    "km_driven",
+    "owner",
+    "engine",
+    "max_power",
+    "mileage",
+    "seats"
+  ],
+  "log_target": true,
+  "intercept_in_theta": true
+}
